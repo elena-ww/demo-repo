@@ -10,3 +10,9 @@ Git_commands.md
    Get installation instructions for Visual Studio Code
 
 ## Subheader
+
+Some text.
+
+## Local development
+
+1. Open index.html in your browser
